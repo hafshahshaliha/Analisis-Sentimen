@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+Sastrawi
+scikit-learn
+wordcloud
+googletrans==4.0.0-rc1
+tqdm
+requests
+tensorflow
+google-play-scraper
