@@ -1,0 +1,5 @@
+# 🧠 Analisis Sentimen Ulasan Aplikasi
+
+Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna aplikasi yang diperoleh melalui web scraping. Analisis dilakukan menggunakan Python dengan pendekatan machine learning sederhana.
+
+## 📁 Struktur Proyek
