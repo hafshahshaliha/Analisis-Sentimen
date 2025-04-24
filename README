@@ -3,3 +3,24 @@
 Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna aplikasi yang diperoleh melalui web scraping. Analisis dilakukan menggunakan Python dengan pendekatan machine learning sederhana.
 
 ## 📁 Struktur Proyek
+
+analisis-sentimen/
+│
+├── data/
+│   ├── reviews.csv
+│   ├── ulasan aplikasi delimiter.csv
+│
+├── notebooks/
+│   ├── analisis sentimen.ipynb
+│   └── web scraping.ipynb
+│
+├── requirements.txt
+├── README.md
+
+
+## 🚀 Langkah Menjalankan
+
+1. Clone repositori ini
+2. Install dependensi:
+   ```bash
+   pip install -r requirements.txt
